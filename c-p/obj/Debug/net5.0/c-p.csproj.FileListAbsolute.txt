@@ -1,0 +1,16 @@
+C:\Users\gizem\Desktop\p\c-p\bin\Debug\net5.0\c-p.exe
+C:\Users\gizem\Desktop\p\c-p\bin\Debug\net5.0\c-p.deps.json
+C:\Users\gizem\Desktop\p\c-p\bin\Debug\net5.0\c-p.runtimeconfig.json
+C:\Users\gizem\Desktop\p\c-p\bin\Debug\net5.0\c-p.runtimeconfig.dev.json
+C:\Users\gizem\Desktop\p\c-p\bin\Debug\net5.0\c-p.dll
+C:\Users\gizem\Desktop\p\c-p\bin\Debug\net5.0\c-p.pdb
+C:\Users\gizem\Desktop\p\c-p\obj\Debug\net5.0\c-p.csproj.AssemblyReference.cache
+C:\Users\gizem\Desktop\p\c-p\obj\Debug\net5.0\c-p.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gizem\Desktop\p\c-p\obj\Debug\net5.0\c-p.AssemblyInfoInputs.cache
+C:\Users\gizem\Desktop\p\c-p\obj\Debug\net5.0\c-p.AssemblyInfo.cs
+C:\Users\gizem\Desktop\p\c-p\obj\Debug\net5.0\c-p.csproj.CoreCompileInputs.cache
+C:\Users\gizem\Desktop\p\c-p\obj\Debug\net5.0\c-p.dll
+C:\Users\gizem\Desktop\p\c-p\obj\Debug\net5.0\refint\c-p.dll
+C:\Users\gizem\Desktop\p\c-p\obj\Debug\net5.0\c-p.pdb
+C:\Users\gizem\Desktop\p\c-p\obj\Debug\net5.0\c-p.genruntimeconfig.cache
+C:\Users\gizem\Desktop\p\c-p\obj\Debug\net5.0\ref\c-p.dll
